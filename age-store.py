@@ -61,6 +61,7 @@ y_values = m * x_values + b
 
 # calculate SS
 
+
 min_sum = SS(m, b, df['X2 house age'], df['Y house price of unit area'])
 
 # itarate
